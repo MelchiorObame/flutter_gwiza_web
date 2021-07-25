@@ -1,0 +1,585 @@
+{
+  "Salon": {
+    "1": {
+      "name": "canapé 2 places",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/canape-2pl.png",
+      "volume": 2.00
+    },
+    "2": {
+      "name": "canapé 3 places",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/canape-3pl.png",
+      "volume": 2.5
+    },
+    "3": {
+      "name": "canapé angle",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/canape-angle.png",
+      "volume": 3.0
+    },
+    "4": {
+      "name": "fauteuil",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/fauteuil.png",
+      "volume": 0.40
+    },
+    "5": {
+      "name": "abat jour",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/abat-jour.png",
+      "volume": 0.1
+    },
+    "6": {
+      "name": "petite lampe",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/petite-lampe.png",
+      "volume": 0.2
+    },
+    "7": {
+      "name": "halogène",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/halogene.png",
+      "volume": 0.75
+    },
+    "8": {
+      "name": "lustre",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/lustre.png",
+      "volume": 0.25
+    },
+    "9": {
+      "name": "placard",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/placard.png",
+      "volume": 2.0
+    },
+    "10": {
+      "name": "étagère",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/etagere.png",
+      "volume": 0.25
+    },
+    "11": {
+      "name": "petite bibliothèque",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/bibli-petite.png",
+      "volume": 0.8
+    },
+    "12": {
+      "name": "grande bibliothèque",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/bibli-grande.png",
+      "volume": 2.0
+    },
+    "13": {
+      "name": "meuble living",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/meuble-living.png",
+      "volume": 3.0
+    },
+    "14": {
+      "name": "table basse",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/table-basse.png",
+      "volume": 0.5
+    },
+    "15": {
+      "name": "guéridon",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/gueridon.png",
+      "volume": 0.5
+    },
+    "16": {
+      "name": "table",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/table.png",
+      "volume": 1.5
+    },
+    "17": {
+      "name": "chaise",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/chaise.png",
+      "volume": 0.17
+    },
+    "18": {
+      "name": "meuble tv",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/meuble-tv.png",
+      "volume": 0.7
+    },
+    "19": {
+      "name": "télévision",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/television.png",
+      "volume": 0.3
+    },
+    "20": {
+      "name": "petit bureau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/petit-bureau.png",
+      "volume": 1.0
+    },
+    "21": {
+      "name": "bureau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/bureau.png",
+      "volume": 1.5
+    },
+    "22": {
+      "name": "ordinateur",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/ordi.png",
+      "volume": 0.1
+    },
+    "23": {
+      "name": "imprimante",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/imprimante.png",
+      "volume": 0.1
+    },
+    "24": {
+      "name": "hifi",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/hifi.png",
+      "volume": 0.25
+    },
+    "25": {
+      "name": "piano demi queue",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/piano-demi-queue.png",
+      "volume": 3.5
+    },
+    "26": {
+      "name": "piano droit",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/piano-droit.png",
+      "volume": 2
+    },
+    "27": {
+      "name": "piano queue",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/piano-queue.png",
+      "volume": 4.5
+    },
+    "28": {
+      "name": "plante",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/plante.png",
+      "volume": 0.5
+    },
+    "29": {
+      "name": "tableau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/tableau.png",
+      "volume": 0.1
+    },
+    "30": {
+      "name": "divers",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/divers.png",
+      "volume": 0.2
+    },
+    "31": {
+      "name": "carton standard",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/carton-standard.png",
+      "volume": 0.1
+    }
+  },
+  "Chambre": {
+    "1": {
+      "name": "lit 1 place",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/lit-1place.png",
+      "volume": 0
+    },
+    "2": {
+      "name": "lit 2 places",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/lit-2places.png",
+      "volume": 0
+    },
+    "3": {
+      "name": "lit superpose",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/lit-superpose.png",
+      "volume": 0
+    },
+    "4": {
+      "name": "table de chevet",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/table-de-chevet.png",
+      "volume": 0
+    },
+    "5": {
+      "name": "armoire",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/armoire.png",
+      "volume": 0
+    },
+    "6": {
+      "name": "commode",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/commode.png",
+      "volume": 0
+    },
+    "7": {
+      "name": "coiffeuse",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/coiffeuse.png",
+      "volume": 0
+    },
+    "8": {
+      "name": "bahut",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/bahut.png",
+      "volume": 0
+    },
+    "9": {
+      "name": "bonnetière",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/bonnetiere.png",
+      "volume": 0
+    },
+    "10": {
+      "name": "semainier",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/semainier.png",
+      "volume": 0
+    },
+    "11": {
+      "name": "fauteuil",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/fauteuil.png",
+      "volume": 0
+    },
+    "12": {
+      "name": "abat jour",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/abat-jour.png",
+      "volume": 0
+    },
+    "13": {
+      "name": "petite lampe",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/petite-lampe.png",
+      "volume": 0
+    },
+    "14": {
+      "name": "halogène",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/halogene.png",
+      "volume": 0
+    },
+    "15": {
+      "name": "placard",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/placard.png",
+      "volume": 0
+    },
+    "16": {
+      "name": "étagère",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/etagere.png",
+      "volume": 0
+    },
+    "17": {
+      "name": "petite bibliothèque",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/bibli-petite.png",
+      "volume": 0
+    },
+    "18": {
+      "name": "grande bibliothèque",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/bibli-grande.png",
+      "volume": 0
+    },
+    "19": {
+      "name": "chaise",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/chaise.png",
+      "volume": 0
+    },
+    "20": {
+      "name": "meuble tv",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/meuble-tv.png",
+      "volume": 0
+    },
+    "21": {
+      "name": "télévision",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/television.png",
+      "volume": 0
+    },
+    "22": {
+      "name": "petit bureau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/petit-bureau.png",
+      "volume": 0
+    },
+    "23": {
+      "name": "bureau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/bureau.png",
+      "volume": 0
+    },
+    "24": {
+      "name": "ordinateur",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/ordi.png",
+      "volume": 0
+    },
+    "25": {
+      "name": "imprimante",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/imprimante.png",
+      "volume": 0
+    },
+    "26": {
+      "name": "hifi",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/hifi.png",
+      "volume": 0
+    },
+    "27": {
+      "name": "plante",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/plante.png",
+      "volume": 0
+    },
+    "28": {
+      "name": "tableau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/tableau.png",
+      "volume": 0
+    },
+    "29": {
+      "name": "divers",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/divers.png",
+      "volume": 0
+    },
+    "30": {
+      "name": "carton penderie",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/carton-penderie.png",
+      "volume": 0
+    },
+    "31": {
+      "name": "carton standard",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/carton-standard.png",
+      "volume": 0
+    }
+  },
+  "Cuisine": {
+    "1": {
+      "name": "réfrigérateur",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/refrigerateur.png",
+      "volume": 0
+    },
+    "2": {
+      "name": "réfrigérateur américain",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/refrigerateur-americain.png",
+      "volume": 0
+    },
+    "3": {
+      "name": "réfrigérateur top",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/refrigerateur-top.png",
+      "volume": 0
+    },
+    "4": {
+      "name": "four",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/four.png",
+      "volume": 0
+    },
+    "5": {
+      "name": "micro-onde",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/micro-onde.png",
+      "volume": 0
+    },
+    "6": {
+      "name": "gazinière",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/gaziniere.png",
+      "volume": 0
+    },
+    "7": {
+      "name": "plaque de cuisson",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/plaque-de-cuisson.png",
+      "volume": 0
+    },
+    "8": {
+      "name": "meuble bas cuisine",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/meuble-bas-cuisine.png",
+      "volume": 0
+    },
+    "9": {
+      "name": "meuble haut cuisine",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/meuble-haut-cuisine.png",
+      "volume": 0
+    },
+    "10": {
+      "name": "plan de travail",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/plan-de-travail.png",
+      "volume": 0
+    },
+    "11": {
+      "name": "sous lavabo",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/sous-lavabo.png",
+      "volume": 0
+    },
+    "12": {
+      "name": "vaisselier",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/vaisselier.png",
+      "volume": 0
+    },
+    "13": {
+      "name": "petite lampe",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/petite-lampe.png",
+      "volume": 0
+    },
+    "14": {
+      "name": "halogène",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/halogene.png",
+      "volume": 0
+    },
+    "15": {
+      "name": "placard",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/placard.png",
+      "volume": 0
+    },
+    "16": {
+      "name": "étagère",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/etagere.png",
+      "volume": 0
+    },
+    "17": {
+      "name": "table",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/table.png",
+      "volume": 0
+    },
+    "18": {
+      "name": "chaise",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/chaise.png",
+      "volume": 0
+    },
+    "19": {
+      "name": "cafetière",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/cafetiere.png",
+      "volume": 0
+    },
+    "20": {
+      "name": "casseroles",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/casseroles.png",
+      "volume": 0
+    },
+    "21": {
+      "name": "lave linge",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/lave-linge.png",
+      "volume": 0
+    },
+    "22": {
+      "name": "lave vaisselle",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/lave-vaisselle.png",
+      "volume": 0
+    },
+    "23": {
+      "name": "congélateur coffre",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/congelateur-coffre.png",
+      "volume": 0
+    },
+    "24": {
+      "name": "congélateur petit",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/congelateur-petit.png",
+      "volume": 0
+    },
+    "25": {
+      "name": "sèche linge",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/seche-linge.png",
+      "volume": 0
+    },
+    "26": {
+      "name": "hifi",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/hifi.png",
+      "volume": 0
+    },
+    "27": {
+      "name": "plante",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/plante.png",
+      "volume": 0
+    },
+    "28": {
+      "name": "tableau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/tableau.png",
+      "volume": 0
+    },
+    "29": {
+      "name": "divers",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/divers.png",
+      "volume": 0
+    },
+    "30": {
+      "name": "carton standard",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/carton-standard.png",
+      "volume": 0
+    }
+  },
+  "Autres": {
+    "1": {
+      "name": "aspirateur",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/aspirateur.png",
+      "volume": 0
+    },
+    "2": {
+      "name": "établi",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/etabli.png",
+      "volume": 0
+    },
+    "3": {
+      "name": "lot-outils",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/lot-outils.png",
+      "volume": 0
+    },
+    "4": {
+      "name": "parasol",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/parasol.png",
+      "volume": 0
+    },
+    "5": {
+      "name": "pharmacie",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/pharmacie.png",
+      "volume": 0
+    },
+    "6": {
+      "name": "poussette",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/poussette.png",
+      "volume": 0
+    },
+    "7": {
+      "name": "scooter",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/scooter.png",
+      "volume": 0
+    },
+    "8": {
+      "name": "tondeuse",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/tondeuse.png",
+      "volume": 0
+    },
+    "9": {
+      "name": "transat",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/transat.png",
+      "volume": 0
+    },
+    "10": {
+      "name": "vélo",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/velo.png",
+      "volume": 0
+    },
+    "11": {
+      "name": "petite lampe",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/petite-lampe.png",
+      "volume": 0
+    },
+    "12": {
+      "name": "halogène",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/halogene.png",
+      "volume": 0
+    },
+    "13": {
+      "name": "placard",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/placard.png",
+      "volume": 0
+    },
+    "14": {
+      "name": "étagère",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/etagere.png",
+      "volume": 0
+    },
+    "15": {
+      "name": "chaise",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/chaise.png",
+      "volume": 0
+    },
+    "16": {
+      "name": "petit bureau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/petit-bureau.png",
+      "volume": 0
+    },
+    "17": {
+      "name": "bureau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/bureau.png",
+      "volume": 0
+    },
+    "18": {
+      "name": "ordinateur",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/ordi.png",
+      "volume": 0
+    },
+    "19": {
+      "name": "imprimante",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/imprimante.png",
+      "volume": 0
+    },
+    "20": {
+      "name": "plante",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/plante.png",
+      "volume": 0
+    },
+    "21": {
+      "name": "tableau",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/tableau.png",
+      "volume": 0
+    },
+    "22": {
+      "name": "divers",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/divers.png",
+      "volume": 0
+    },
+    "23": {
+      "name": "carton standard",
+      "image_url": "https://www.lesartisansdemenageurs.fr//bundles/calculateur/images/calculateur/carton-standard.png",
+      "volume": 0
+    }
+  }
+}
